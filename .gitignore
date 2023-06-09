@@ -124,7 +124,7 @@ celerybeat.pid
 *.sage.py
 
 #config_variable
-config.py
+config.ini
 
 # Environments
 .env
